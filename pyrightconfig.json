@@ -1,4 +1,4 @@
 {
-  "venvPath": "/Users/rmyazdi/Documents/",
-  "venv": "venvpy"
+  "venvPath": ".",
+  "venv": "venv"
 }
