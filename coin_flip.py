@@ -1,9 +1,7 @@
 from enum import Enum
-from os import chown
 import numpy as np
 from typing import Callable
 from matplotlib import pyplot as plt
-from scipy.special import comb
 from scipy.integrate import trapezoid
 
 """
